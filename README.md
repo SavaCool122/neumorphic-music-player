@@ -1,2 +1,2 @@
-# neumorphic-music-player
-![Image of Yaktocat](/screenshot.png)
+# My simple Music player in Neumorphism designs
+![Screenshot](/screenshot.png)
